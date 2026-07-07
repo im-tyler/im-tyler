@@ -1,6 +1,7 @@
 # Tyler
 
-Solo founder building a portfolio of interconnected products spanning OS tooling, deployment infrastructure, programming frameworks, AI, analytics, and e-commerce.
+Solo founder building a portfolio of products and the open source underneath them. Active priorities: **Tebian**, **Neutron**, **Teploy**, **Fylun**. Below: the public projects, research, and tools that feed into those or stand on their own.
+
 ## Active priorities
 
 | Project | What it is |
@@ -9,6 +10,17 @@ Solo founder building a portfolio of interconnected products spanning OS tooling
 | [Neutron](https://neutron.build) | One framework across web, mobile, desktop, and AI — in Rust, TypeScript, Mojo, Go, Zig, and Python. Backed by Nucleus, a 9-model database engine speaking PostgreSQL. |
 | [Teploy](https://teploy.com) | Zero-downtime Docker deploys to any server via SSH. Single binary, no management server. Optional UI. Solves the SSH/UI state-desync problem in Dokploy and Coolify. |
 | [Fylun](https://fylun.ai/) | Unified AI platform — one subscription, one interface, replacing the need to juggle multiple AI services. |
+
+## Linux desktop play
+
+A coherent stack for macOS-refugee Linux users — foundation, wedge, environment, and the analysis that scopes it.
+
+| Project | Role | Status |
+| --- | --- | --- |
+| [Tebian](https://tebian.org) | Debian usability layer — Sway + bash puzzle menu, builds the OS from containers to VMs to security tools | active |
+| [maccel](https://github.com/im-tyler/maccel) | Mouse acceleration daemon — brings macOS pointer feel to any compositor (Sway, Hyprland, Cosmic, X11) | planning, v0.1 next |
+| [Haven](https://github.com/im-tyler/haven) | Desktop environment for macOS refugees — dock, top bar, Spotlight-style launcher, native mouse feel | design phase |
+| [multipurpose-tool](https://github.com/im-tyler/multipurpose-tool) | Parity-stack analysis: existing media/file tools that cover the unified multi-tool scope | research, not building |
 
 ## Selected public work
 
