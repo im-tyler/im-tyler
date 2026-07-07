@@ -1,7 +1,6 @@
 # Tyler
 
-Solo founder building a portfolio of interconnected products spanning OS tooling, deployment infrastructure, programming frameworks, AI, analytics, and e-commerce. Codes primarily in TypeScript, Go, Rust, and Bash. Ships on a self-hosted Proxmox cluster joined by a Tailscale mesh.
-
+Solo founder building a portfolio of interconnected products spanning OS tooling, deployment infrastructure, programming frameworks, AI, analytics, and e-commerce.
 ## Active priorities
 
 | Project | What it is |
