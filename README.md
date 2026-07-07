@@ -8,7 +8,7 @@ Solo founder building a portfolio of interconnected products spanning OS tooling
 | [Tebian](https://github.com/tebian-os/tebian) | A usability layer for Debian — a Sway + bash "puzzle menu" that builds the OS up from containers to VMs to security tools, or strips back to a headless server. |
 | [Neutron](https://github.com/neutron-build/neutron) | One framework across web, mobile, desktop, and AI — in Rust, TypeScript, Mojo, Go, Zig, and Python. Backed by Nucleus, a 9-model database engine speaking PostgreSQL. |
 | [Teploy](https://github.com/useteploy/teploy-cli) | Zero-downtime Docker deploys to any server via SSH. Single binary, no management server. Optional UI. Solves the SSH/UI state-desync problem in Dokploy and Coolify. |
-| [Fylun](https://github.com/usefylun) | Unified AI platform — one subscription, one interface, replacing the need to juggle multiple AI services. |
+| [Fylun](https://fylun.ai/) | Unified AI platform — one subscription, one interface, replacing the need to juggle multiple AI services. |
 
 ## Selected public work
 
