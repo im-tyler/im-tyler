@@ -24,11 +24,6 @@ Solo founder building a portfolio of interconnected products spanning OS tooling
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+[![Neutron](https://img.shields.io/badge/Neutron-7C3AED)](https://github.com/neutron-build/neutron)
+[![Nucleus](https://img.shields.io/badge/Nucleus-2563EB)](https://github.com/neutron-build/neutron)
+[![Teploy](https://img.shields.io/badge/Teploy-0D9488)](https://github.com/useteploy/teploy-cli)
