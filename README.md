@@ -12,7 +12,6 @@ Solo founder building a portfolio of interconnected products spanning OS tooling
 
 ## Selected public work
 
-- [Forerunner](https://github.com/im-tyler/forerunner) — Enterprise EDR: multi-platform Go agents (Win/Linux/macOS) with YARA/Sigma/behavioral/ML detection, automated response, mTLS, and a React SOC portal.
 - [light-system](https://github.com/im-tyler/light-system) — Renderer competing with Nanite and Lumen, plus a modified PhysX 5.6 implementation for unified physics simulation. Vulkan and WebGPU.
 - [omilator](https://github.com/im-tyler/omilator) — Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android).
 - [babel-bible](https://github.com/im-tyler/babel-bible) — Omnidisciplinary self-study curriculum (math, physics, chemistry, biology, philosophy, language, social science) with Lean 4 formalization. Companion site at [babelbible.org](https://babelbible.org).
