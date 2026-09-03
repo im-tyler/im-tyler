@@ -7,7 +7,7 @@ Solo founder building a portfolio of products and the open source underneath the
 | Project | What it is |
 | --- | --- |
 | [Neutron](https://neutron.build) | One framework across web, mobile, desktop, and AI — in Rust, TypeScript, Mojo, Go, Zig, and Python. Backed by Nucleus, a 9-model database engine speaking PostgreSQL. |
-| [Teploy](https://teploy.com) | Zero-downtime Docker deploys to any server via SSH. Single binary, no management server. Optional UI. Solves the SSH/UI state-desync problem in Dokploy and Coolify. Ecosystem: arcade (game servers), ship (coding agent), gateway (AI gateway), observe (observability). |
+| [Teploy](https://teploy.com) | Zero-downtime Docker deploys to any server via SSH. Single binary, no management server. Optional UI. Solves the SSH/UI state-desync problem in Dokploy and Coolify. Ecosystem: arcade (game servers), ship (coding agent), gateway (AI gateway), sandbox (agent runners), observe (observability). |
 | [Fylun](https://fylun.ai/) | Unified AI platform — one subscription, one interface, replacing the need to juggle multiple AI services. Terminal agent: [fylun-code](https://github.com/usefylun/fylun-code). |
 
 ## Live products
