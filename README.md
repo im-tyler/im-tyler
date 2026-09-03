@@ -6,24 +6,35 @@ Solo founder building a portfolio of products and the open source underneath the
 
 | Project | What it is |
 | --- | --- |
-| [Tebian](https://tebian.org) | Debian usability layer — Sway + a bash puzzle menu that builds the OS with you, from containers to VMs to security to gaming. Strips back to plain Debian server by deleting a folder. |
 | [Neutron](https://neutron.build) | One framework across web, mobile, desktop, and AI — in Rust, TypeScript, Mojo, Go, Zig, and Python. Backed by Nucleus, a 9-model database engine speaking PostgreSQL. |
 | [Teploy](https://teploy.com) | Zero-downtime Docker deploys to any server via SSH. Single binary, no management server. Optional UI. Solves the SSH/UI state-desync problem in Dokploy and Coolify. Ecosystem: arcade (game servers), ship (coding agent), gateway (AI gateway), observe (observability). |
 | [Fylun](https://fylun.ai/) | Unified AI platform — one subscription, one interface, replacing the need to juggle multiple AI services. Terminal agent: [fylun-code](https://github.com/usefylun/fylun-code). |
 
+## Live products
+
+| Product | What it is |
+| --- | --- |
+| [Lull Mail](https://lullmail.com) | Briefing-first mail client — senders screened once, a daily briefing of what needs you. One Go binary + Postgres, [AGPL source](https://github.com/lullmail/lullmail). |
+| [Covely](https://covely.io) | Marketplace for indie games, books, comics, and assets. |
+| [Akiroo](https://akiroo.com) | Run your company with AI — modular business software in standalone modules. |
+| [Omni Analyst](https://omnianalyst.com) | Self-hosted market intelligence: demand-driven coverage, calibrated conviction, a public record of every prediction. [Source](https://github.com/omnianalyst/omni-analyst). |
+| [RealCost](https://realcost.dev) | The SaaS Infrastructure Index — what running on each provider actually costs. |
+| [Forerunner](https://forerunner.blog) | Endpoint security from the frontier. |
+| [Clank](https://clank.online) | Small models that run on your machine. |
+| [Reel Garden](https://reel.garden) | Screen recordings that grow into something beautiful. |
+
 ## Linux desktop play
 
-The stack around Tebian for macOS-refugee Linux users — wedge, environment, and the analysis that scopes it.
+A coherent stack for macOS-refugee Linux users — foundation, wedge, environment, and the analysis that scopes it.
 
 | Project | Role | Status |
 | --- | --- | --- |
+| [Tebian](https://tebian.org) | Debian usability layer — Sway + a bash puzzle menu that builds the OS with you, from containers to VMs to security to gaming | active |
 | [maccel](https://github.com/im-tyler/maccel) | Mouse acceleration daemon — brings macOS pointer feel to any compositor (Sway, Hyprland, Cosmic, X11) | early development |
 | [Haven](https://github.com/im-tyler/haven) | Desktop environment for macOS refugees — dock, top bar, Spotlight-style launcher, native mouse feel | design phase |
 
 ## Selected public work
 
-- [lullmail](https://github.com/lullmail/lullmail) — Briefing-first mail client: senders screened once and routed forever, a daily briefing of what actually needs you, board/calendar/notes that derive themselves from mail. One Go binary + Postgres, AGPL. Site at [lullmail.com](https://lullmail.com).
-- [omni-analyst](https://github.com/omnianalyst/omni-analyst) — Self-hosted market intelligence. Demand-driven coverage, calibrated conviction, and a public record of every prediction it ever made.
 - [light-system](https://github.com/im-tyler/light-system) — Renderer competing with Nanite and Lumen, plus a modified PhysX 5.6 implementation for unified physics simulation. Vulkan and WebGPU.
 - [omilator](https://github.com/im-tyler/omilator) — Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android).
 - [babel-bible](https://github.com/im-tyler/babel-bible) — Omnidisciplinary self-study curriculum (math, physics, chemistry, biology, philosophy, language, social science) with Lean 4 formalization. Companion site at [babelbible.org](https://babelbible.org).
