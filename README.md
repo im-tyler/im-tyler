@@ -22,6 +22,9 @@ Solo founder building a portfolio of products and the open source underneath the
 | [Forerunner](https://forerunner.blog) | Endpoint security from the frontier. |
 | [Clank](https://clank.online) | Small models that run on your machine. |
 | [Reel Garden](https://reel.garden) | Screen recordings that grow into something beautiful. |
+| [Babel Bible](https://babelbible.org) | Omnidisciplinary self-study curriculum — math, physics, chemistry, biology, philosophy, language, social science — with Lean 4 formalization. [Source](https://github.com/im-tyler/babel-bible). |
+| [Omi RSS](https://omirss.com) | Your feed. Your rules. — RSS reader: Flutter app + browser extension + server. [Source](https://github.com/im-tyler/omi-rss). |
+| [Aethoph](https://aethoph.com) | Real-world driving and exploration game — the whole planet, built from free data. |
 
 ## Linux desktop play
 
@@ -37,10 +40,8 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 
 - [light-system](https://github.com/im-tyler/light-system) — Renderer competing with Nanite and Lumen, plus a modified PhysX 5.6 implementation for unified physics simulation. Vulkan and WebGPU.
 - [omilator](https://github.com/im-tyler/omilator) — Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android).
-- [babel-bible](https://github.com/im-tyler/babel-bible) — Omnidisciplinary self-study curriculum (math, physics, chemistry, biology, philosophy, language, social science) with Lean 4 formalization. Companion site at [babelbible.org](https://babelbible.org).
 - [simval](https://github.com/im-tyler/simval) — Deterministic verification oracle for computational-physics simulations. Local-first, LLM-free core.
 - [agent-inbox](https://github.com/im-tyler/agent-inbox) — Federated supervisor for CLI coding agents. One inbox holding N independent projects, each with its own long-lived Claude Code or OpenCode session.
-- [omi-rss](https://github.com/im-tyler/omi-rss) — RSS reader: Flutter app + browser extension + backend server.
 - [kkt-framework](https://github.com/im-tyler/kkt-framework) — KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts.
 
 ## Stack
