@@ -39,6 +39,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 ## Selected public work
 
 - [light-system](https://github.com/im-tyler/light-system) — Renderer competing with Nanite and Lumen, plus a modified PhysX 5.6 implementation for unified physics simulation. Vulkan and WebGPU.
+- [meridian](https://github.com/im-tyler/meridian) — Dense/virtualized geometry renderer for Godot 4, Nanite as the parity bar — C++ standalone Vulkan + Godot importer. The rendering core of Light System, in its own repo.
 - [omilator](https://github.com/im-tyler/omilator) — Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android).
 - [simval](https://github.com/im-tyler/simval) — Deterministic verification oracle for computational-physics simulations. Local-first, LLM-free core.
 - [agent-inbox](https://github.com/im-tyler/agent-inbox) — Federated supervisor for CLI coding agents. One inbox holding N independent projects, each with its own long-lived Claude Code or OpenCode session.
