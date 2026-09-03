@@ -23,6 +23,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 
 ## Selected public work
 
+- [lullmail](https://github.com/lullmail/lullmail) — Briefing-first mail client: senders screened once and routed forever, a daily briefing of what actually needs you, board/calendar/notes that derive themselves from mail. One Go binary + Postgres, AGPL. Site at [lullmail.com](https://lullmail.com).
 - [light-system](https://github.com/im-tyler/light-system) — Renderer competing with Nanite and Lumen, plus a modified PhysX 5.6 implementation for unified physics simulation. Vulkan and WebGPU.
 - [omilator](https://github.com/im-tyler/omilator) — Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android).
 - [babel-bible](https://github.com/im-tyler/babel-bible) — Omnidisciplinary self-study curriculum (math, physics, chemistry, biology, philosophy, language, social science) with Lean 4 formalization. Companion site at [babelbible.org](https://babelbible.org).
