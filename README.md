@@ -44,7 +44,10 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 - [simval](https://github.com/im-tyler/simval) — Deterministic verification oracle for computational-physics simulations. Local-first, LLM-free core.
 - [agent-inbox](https://github.com/im-tyler/agent-inbox) — Federated supervisor for CLI coding agents. One inbox holding N independent projects, each with its own long-lived Claude Code or OpenCode session.
 - [kkt-framework](https://github.com/im-tyler/kkt-framework) — KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts.
-- Client work: [Witchwalk](https://witchwalk.app) — built for Pyreal-Software; a game that progresses while you walk. iOS + Android.
+
+## Client work
+
+- [Witchwalk](https://witchwalk.app) — built for Pyreal-Software; a game that progresses while you walk. iOS + Android.
 
 ## Stack
 
