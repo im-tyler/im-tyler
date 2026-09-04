@@ -25,6 +25,7 @@ Solo founder building a portfolio of products and the open source underneath the
 | [Babel Bible](https://babelbible.org) | Omnidisciplinary self-study curriculum — math, physics, chemistry, biology, philosophy, language, social science — with Lean 4 formalization. [Source](https://github.com/im-tyler/babel-bible). |
 | [Omi RSS](https://omirss.com) | Your feed. Your rules. — RSS reader: Flutter app + browser extension + server. [Source](https://github.com/im-tyler/omi-rss). |
 | [Aethoph](https://aethoph.com) | Real-world driving and exploration game — the whole planet, built from free data. |
+| [Witchwalk](https://witchwalk.app) | A game that progresses while you walk — leave offerings at your witch's cottage and real-world steps bring the creatures. |
 
 ## Linux desktop play
 
