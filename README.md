@@ -49,7 +49,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 
 ## Client work
 
-- [Witchwalk](https://witchwalk.app) — built for Pyreal-Software; a game that progresses while you walk. iOS + Android.
+- [Witchwalk](https://witchwalk.app) — a game that progresses while you walk. iOS + Android.
 
 ## Stack
 
