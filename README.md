@@ -27,15 +27,22 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | Product | What it is |
 | --- | --- |
 | [Lull Mail](https://lullmail.com) | Briefing-first mail client — senders screened once, a daily briefing of what needs you. One Go binary + Postgres, [AGPL source](https://github.com/lullmail/lullmail). |
-| [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
 | [Omni Analyst](https://omnianalyst.com) | Self-hosted market intelligence: demand-driven coverage, calibrated conviction, a public record of every prediction. [Source](https://github.com/omnianalyst/omni-analyst). |
 | [RealCost](https://realcost.dev) | The SaaS Infrastructure Index — what running on each provider actually costs. |
 | [Forerunner](https://forerunner.blog) | Stories from the frontier. |
 | [Clank](https://clank.online) | Small models that run on your machine. |
-| [Reel Garden](https://reel.garden) | Screen recordings that grow into something beautiful. |
 | [Babel Bible](https://babelbible.org) | Omnidisciplinary self-study curriculum — math, physics, chemistry, biology, philosophy, language, social science — with Lean 4 formalization. [Source](https://github.com/im-tyler/babel-bible). |
 | [Omi RSS](https://omirss.com) | Your feed. Your rules. — RSS reader: Flutter app + browser extension + server. [Source](https://github.com/im-tyler/omi-rss). |
+
+## Coming soon
+
+| Product | What it is |
+| --- | --- |
+| [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
+| [Reel Garden](https://reel.garden) | Screen recordings that grow into something beautiful. |
 | [Aethoph](https://aethoph.com) | Real-world driving and exploration game — the whole planet, built from free data. |
+| DAW | Rust-native digital audio workstation. Early build, name TBA. |
+| Wallet | Name and details TBA. |
 
 ## Selected public work
 
