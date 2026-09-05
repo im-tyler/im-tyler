@@ -47,6 +47,9 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | [omilator](https://github.com/im-tyler/omilator) | Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android). |
 | [kkt-framework](https://github.com/im-tyler/kkt-framework) | KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts. |
 
+## Research
+| [kkt-framework](https://github.com/im-tyler/kkt-framework) | KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts. |
+
 ## Client work
 
 - [Witchwalk](https://witchwalk.app) — a game that progresses while you walk. iOS + Android.
