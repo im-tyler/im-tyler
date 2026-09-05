@@ -30,7 +30,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
 | [Omni Analyst](https://omnianalyst.com) | Self-hosted market intelligence: demand-driven coverage, calibrated conviction, a public record of every prediction. [Source](https://github.com/omnianalyst/omni-analyst). |
 | [RealCost](https://realcost.dev) | The SaaS Infrastructure Index — what running on each provider actually costs. |
-| [Forerunner](https://forerunner.blog) | Endpoint security from the frontier. |
+| [Forerunner](https://forerunner.blog) | Stories from the frontier. |
 | [Clank](https://clank.online) | Small models that run on your machine. |
 | [Reel Garden](https://reel.garden) | Screen recordings that grow into something beautiful. |
 | [Babel Bible](https://babelbible.org) | Omnidisciplinary self-study curriculum — math, physics, chemistry, biology, philosophy, language, social science — with Lean 4 formalization. [Source](https://github.com/im-tyler/babel-bible). |
