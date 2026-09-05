@@ -27,7 +27,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | Product | What it is |
 | --- | --- |
 | [Lull Mail](https://lullmail.com) | Briefing-first mail client — senders screened once, a daily briefing of what needs you. One Go binary + Postgres, [AGPL source](https://github.com/lullmail/lullmail). |
-| [Covely](https://covely.io) | Marketplace for indie games, books, comics, and assets. |
+| [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
 | [Omni Analyst](https://omnianalyst.com) | Self-hosted market intelligence: demand-driven coverage, calibrated conviction, a public record of every prediction. [Source](https://github.com/omnianalyst/omni-analyst). |
 | [RealCost](https://realcost.dev) | The SaaS Infrastructure Index — what running on each provider actually costs. |
 | [Forerunner](https://forerunner.blog) | Endpoint security from the frontier. |
