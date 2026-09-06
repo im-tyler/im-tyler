@@ -1,6 +1,6 @@
 # Tyler
 
-Solo founder building a portfolio of products and the open source underneath them. Active priorities: **Tebian**, **Neutron**, **Teploy**, **Fylun**, **Akiroo**. Below: the public projects, research, and tools that feed into those or stand on their own.
+Solo founder building a portfolio of products and the open source underneath them. Active priorities: **Neutron**, **Teploy**, **Fylun**, **Akiroo**. Below: the public projects, research, and tools that feed into those or stand on their own.
 
 ## Active priorities
 
