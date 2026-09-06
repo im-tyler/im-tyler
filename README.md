@@ -56,6 +56,10 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 ## Research
 [kkt-framework](https://github.com/im-tyler/kkt-framework)  KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts.
 
+[2i-impossibility](https://github.com/im-tyler/2i-impossibility)  Structural obstruction theorems closing off Standard-Model derivations from binary icosahedral orbifolds — negative-results paper with machine-verifiable proofs.
+
+[transcriptional-compactness](https://github.com/im-tyler/transcriptional-compactness)  Pre-registered multi-cohort study of Ollivier-Ricci curvature in cancer scRNA-seq — discovery meta-analysis, held-out validation, annotation sensitivity analysis.
+
 ## Client work
 
 - [Witchwalk](https://witchwalk.app) — a game that progresses while you walk. iOS + Android.
