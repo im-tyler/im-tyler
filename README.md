@@ -60,6 +60,8 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 
 [transcriptional-compactness](https://github.com/im-tyler/transcriptional-compactness)  Pre-registered multi-cohort study of Ollivier-Ricci curvature in cancer scRNA-seq — discovery meta-analysis, held-out validation, annotation sensitivity analysis.
 
+[simval](https://github.com/im-tyler/simval)  Deterministic verification oracle for computational-physics simulations — nine physics domains, 654 reference anchors, LLM-free core.
+
 ## Client work
 
 - [Witchwalk](https://witchwalk.app) — a game that progresses while you walk. iOS + Android.
