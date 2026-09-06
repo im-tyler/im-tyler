@@ -51,6 +51,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | [light-system](https://github.com/im-tyler/light-system) | Standalone dense/virtualized geometry renderer, Nanite as the parity bar. Clustered LOD + streamed page format, GPU-driven culling, visibility-buffer rasterization, cascaded shadow maps — C++ Vulkan prototype with measured per-pass GPU timings. Formerly Project Meridian. |
 | [simval](https://github.com/im-tyler/simval) | Deterministic verification oracle for computational-physics simulations. Local-first, LLM-free core — nine physics domains, 654 reference anchors. |
 | [agent-inbox](https://github.com/im-tyler/agent-inbox) | Federated supervisor for CLI coding agents. One inbox holding N independent projects, each with its own long-lived Claude Code or OpenCode session. |
+| [ontos](https://github.com/im-tyler/ontos) | One deterministic universe simulation, all scales, one state — scale-conditional physics with conserved totals across level boundaries, verified externally by simval. |
 | [omilator](https://github.com/im-tyler/omilator) | Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android). |
 
 ## Research
@@ -59,8 +60,6 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 [2i-impossibility](https://github.com/im-tyler/2i-impossibility)  Structural obstruction theorems closing off Standard-Model derivations from binary icosahedral orbifolds — negative-results paper with machine-verifiable proofs.
 
 [transcriptional-compactness](https://github.com/im-tyler/transcriptional-compactness)  Pre-registered multi-cohort study of Ollivier-Ricci curvature in cancer scRNA-seq — discovery meta-analysis, held-out validation, annotation sensitivity analysis.
-
-[simval](https://github.com/im-tyler/simval)  Deterministic verification oracle for computational-physics simulations — nine physics domains, 654 reference anchors, LLM-free core.
 
 ## Client work
 
