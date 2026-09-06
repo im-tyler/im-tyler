@@ -49,9 +49,9 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | Project | What it is |
 | --- | --- |
 | [light-system](https://github.com/im-tyler/light-system) | Standalone dense/virtualized geometry renderer, Nanite as the parity bar. Clustered LOD + streamed page format, GPU-driven culling, visibility-buffer rasterization, cascaded shadow maps — C++ Vulkan prototype with measured per-pass GPU timings. Formerly Project Meridian. |
+| [ontos](https://github.com/im-tyler/ontos) | One deterministic universe simulation, all scales, one state — scale-conditional physics with conserved totals across level boundaries, verified externally by simval. |
 | [simval](https://github.com/im-tyler/simval) | Deterministic verification oracle for computational-physics simulations. Local-first, LLM-free core — nine physics domains, 654 reference anchors. |
 | [agent-inbox](https://github.com/im-tyler/agent-inbox) | Federated supervisor for CLI coding agents. One inbox holding N independent projects, each with its own long-lived Claude Code or OpenCode session. |
-| [ontos](https://github.com/im-tyler/ontos) | One deterministic universe simulation, all scales, one state — scale-conditional physics with conserved totals across level boundaries, verified externally by simval. |
 | [omilator](https://github.com/im-tyler/omilator) | Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android). |
 
 ## Research
