@@ -41,6 +41,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
 | [Reel Garden](https://reel.garden) | Screen recordings that grow into something beautiful. |
 | [Aethoph](https://aethoph.com) | Three games in one seamless real world — drive it, fly it, sail it. The whole planet, built from free data. |
+| [Stem Framework](https://stemframework.org) | Academic integrity platform — blockchain ledger plus a web2 layer, cross-referencing domains to fight academic fraud and spark cross-domain learning. |
 | DAW | A digital audio workstation built from raw Rust — engine-first, no frameworks, no compromises. Early build, name TBA. |
 | Wallet | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. Name TBA. |
 
