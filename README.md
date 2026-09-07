@@ -6,8 +6,8 @@ Solo founder building a portfolio of products and the open source underneath the
 
 | Project | What it is |
 | --- | --- |
-| [Neutron](https://neutron.build) | One framework across web, mobile, desktop, and AI — in Rust, TypeScript, Mojo, Go, Zig, and Python. Backed by Nucleus, a 9-model database engine speaking PostgreSQL. |
-| [Teploy](https://teploy.com) | Zero-downtime Docker deploys to any server via SSH. Single binary, no management server. Optional UI. Solves the SSH/UI state-desync problem in Dokploy and Coolify. Ecosystem: arcade (game servers), ship (coding agent), gateway (AI gateway), sandbox (agent runners), observe (observability). |
+| [Neutron](https://neutron.build) | One framework across web, mobile, desktop, and AI — in TypeScript, Rust, Go, Python, Elixir, Zig, Julia, and Mojo. Backed by Nucleus, a 14-model database engine speaking PostgreSQL. |
+| [Teploy](https://teploy.com) | Zero-downtime Docker deploys to any server via SSH. Single binary, no management server. Optional UI. Solves the SSH/UI state-desync problem in Dokploy and Coolify. Beyond deploys: multi-server + load balancing, canary rollouts, preview environments, managed secrets (OpenBao), S3 backups, VPN mesh with JIT access, Trivy vulnerability gate, one-command app templates. Ecosystem: arcade (game servers), ship (coding agent), gateway (AI gateway), sandbox (agent runners), observe (observability). |
 | [Fylun](https://fylun.ai/) | Unified AI platform — one subscription, one interface, replacing the need to juggle multiple AI services. Terminal agent: [fylun-code](https://github.com/usefylun/fylun-code). |
 | [Akiroo](https://akiroo.com) | Run your company with AI — modular business software in standalone modules. Go on neutron-go with a Neutron dashboard, live on akiroo.com. |
 
@@ -17,7 +17,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 
 | Project | Role | Status |
 | --- | --- | --- |
-| [Tebian](https://tebian.org) | Debian usability layer — Sway + a bash puzzle menu that builds the OS with you, from containers to VMs to security to gaming | active |
+| [Tebian](https://tebian.org) | One ISO, one menu — desktop, server, gaming, or security workstation from a single bootable image. Declarative bash manifest on Sway; delete the config folder and you're back on stock Debian | active |
 | [maccel](https://github.com/im-tyler/maccel) | Mouse acceleration daemon — brings macOS pointer feel to any compositor (Sway, Hyprland, Cosmic, X11) | early development |
 | [Haven](https://github.com/im-tyler/haven) | Desktop environment for macOS refugees — dock, top bar, Spotlight-style launcher, native mouse feel | design phase |
 | [multipurpose-tool](https://github.com/im-tyler/multipurpose-tool) | Agent-facing base tooling — one installable CLI for standard file conversions and desktop operations | concept |
