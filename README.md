@@ -17,7 +17,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 
 | Project | Role | Status |
 | --- | --- | --- |
-| [Tebian](https://tebian.org) | One ISO, one menu — desktop, server, gaming, or security workstation from a single bootable image. Declarative bash manifest on Sway; delete the config folder and you're back on stock Debian | active |
+| [Tebian](https://tebian.org) | An operating system from the future — one bootable image that becomes a desktop, server, gaming rig, or security workstation through a single menu. Declarative bash on Sway; delete the config folder and you're back on stock Debian | active |
 | [maccel](https://github.com/im-tyler/maccel) | Mouse acceleration daemon — brings macOS pointer feel to any compositor (Sway, Hyprland, Cosmic, X11) | early development |
 | [Haven](https://github.com/im-tyler/haven) | Desktop environment for macOS refugees — dock, top bar, Spotlight-style launcher, native mouse feel | design phase |
 | [multipurpose-tool](https://github.com/im-tyler/multipurpose-tool) | Agent-facing base tooling — one installable CLI for standard file conversions and desktop operations | concept |
