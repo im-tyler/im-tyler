@@ -44,7 +44,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | [Stem Framework](https://stemframework.org) | Academic integrity platform — blockchain ledger plus a web2 layer, cross-referencing domains to fight academic fraud and spark cross-domain learning. |
 | [Waveqi](https://waveqi.com) | A digital audio workstation built from raw Rust — engine-first, no frameworks, no compromises. Early build. |
 | [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
-| Media Hub | Self-hosted media app — movies, shows, music, audiobooks, and Kavita-style reading for books and comics. |
+| Media Hub | Self-hosted media app — movies, shows, music, audiobooks, plus reading for books and comics. |
 | Hardware | Name TBA. |
 
 ## Selected public work
