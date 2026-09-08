@@ -33,6 +33,8 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | [Clank](https://clank.online) | Small models that run on your machine. |
 | [Babel Bible](https://babelbible.org) | Omnidisciplinary self-study curriculum — math, physics, chemistry, biology, philosophy, language, social science — with Lean 4 formalization. [Source](https://github.com/im-tyler/babel-bible). |
 | [Omi RSS](https://omirss.com) | Your feed. Your rules. — RSS reader: Flutter app + browser extension + server. [Source](https://github.com/im-tyler/omi-rss). |
+| Media Hub | Self-hosted media app — movies, shows, music, audiobooks, plus reading for books and comics. |
+| [Apocanet](https://apocanet.com) | The last resort when it all goes dark. |
 
 ## Coming soon
 
@@ -43,11 +45,9 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | Creative Studio | One app for photo, design, and video — Affinity, Lightroom, and DaVinci territory. |
 | [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
 | [Aethoph](https://aethoph.com) | Three games in one seamless real world — drive it, fly it, sail it. The whole planet, built from free data. |
-| Media Hub | Self-hosted media app — movies, shows, music, audiobooks, plus reading for books and comics. |
-| [Apocanet](https://apocanet.com) | The last resort when it all goes dark. |
 | [Stem Framework](https://stemframework.org) | Academic integrity platform — blockchain ledger plus a web2 layer, cross-referencing domains to fight academic fraud and spark cross-domain learning. |
-| [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
 | Hardware | Atoms, not bits. That's all we can say for now. |
+| [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
 
 ## Selected public work
 
