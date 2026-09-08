@@ -64,7 +64,7 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 
 ## Client Work — [Dream Lucid Solutions](https://www.dreamlucidsolutions.com)
 
-- [Witchwalk](https://witchwalk.app) — a game that progresses while you walk. iOS + Android.
+[Witchwalk](https://witchwalk.app) — a game that progresses while you walk. iOS + Android.
 
 ## Stack
 
