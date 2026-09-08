@@ -38,15 +38,15 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 
 | Product | What it is |
 | --- | --- |
-| [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
 | [Reel Garden](https://reel.garden) | Screen recordings that grow into something beautiful. |
-| [Aethoph](https://aethoph.com) | Three games in one seamless real world — drive it, fly it, sail it. The whole planet, built from free data. |
-| [Stem Framework](https://stemframework.org) | Academic integrity platform — blockchain ledger plus a web2 layer, cross-referencing domains to fight academic fraud and spark cross-domain learning. |
 | [Waveqi](https://waveqi.com) | A digital audio workstation built from raw Rust — engine-first, no frameworks, no compromises. Early build. |
-| [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
+| Creative Studio | One app for photo, design, and video — Affinity, Lightroom, and DaVinci territory. |
+| [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
+| [Aethoph](https://aethoph.com) | Three games in one seamless real world — drive it, fly it, sail it. The whole planet, built from free data. |
 | Media Hub | Self-hosted media app — movies, shows, music, audiobooks, plus reading for books and comics. |
 | [Apocanet](https://apocanet.com) | The last resort when it all goes dark. |
-| Creative Studio | One app for photo, design, and video — Affinity, Lightroom, and DaVinci territory. |
+| [Stem Framework](https://stemframework.org) | Academic integrity platform — blockchain ledger plus a web2 layer, cross-referencing domains to fight academic fraud and spark cross-domain learning. |
+| [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
 | Hardware | Atoms, not bits. That's all we can say for now. |
 
 ## Selected public work
