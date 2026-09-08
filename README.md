@@ -45,6 +45,8 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | [Waveqi](https://waveqi.com) | A digital audio workstation built from raw Rust — engine-first, no frameworks, no compromises. Early build. |
 | [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
 | Media Hub | Self-hosted media app — movies, shows, music, audiobooks, plus reading for books and comics. |
+| [Apocanet](https://apocanet.com) | The last resort when it all goes dark. |
+| Creative Studio | One app for photo, design, and video — Affinity, Lightroom, and DaVinci territory. |
 | Hardware | Atoms, not bits. That's all we can say for now. |
 
 ## Selected public work
