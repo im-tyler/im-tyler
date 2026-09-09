@@ -42,7 +42,7 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | --- | --- |
 | [Reel Garden](https://reel.garden) | Screen recordings that grow into something beautiful. |
 | [Waveqi](https://waveqi.com) | A digital audio workstation built from raw Rust — engine-first, no frameworks, no compromises. Early build. |
-| Creative Studio | One app for photo, design, and video — Affinity, Lightroom, and DaVinci territory. |
+| Creative Studio | One app for photo, design, and video. |
 | [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
 | [Aethoph](https://aethoph.com) | Three games in one seamless real world — drive it, fly it, sail it. The whole planet, built from free data. |
 | [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
