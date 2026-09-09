@@ -29,7 +29,6 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | [Lull Mail](https://lullmail.com) | Briefing-first mail client — senders screened once, a daily briefing of what needs you. One Go binary + Postgres, [AGPL source](https://github.com/lullmail/lullmail). |
 | [Omi RSS](https://omirss.com) | Your feed. Your rules. — self-hosted RSS reader: web app, browser extension, and a Google Reader-compatible API for mobile clients. [Source](https://github.com/im-tyler/omi-rss). |
 | [Omni Analyst](https://omnianalyst.com) | Self-hosted market intelligence: demand-driven coverage, calibrated conviction, a public record of every prediction. Now with built-in envelope budgeting. [Source](https://github.com/omnianalyst/omni-analyst). |
-| Media Hub | Self-hosted media app — movies, shows, music, audiobooks, plus reading for books and comics. |
 | [RealCost](https://realcost.dev) | The SaaS Infrastructure Index — what running on each provider actually costs. |
 | [Apocanet](https://apocanet.com) | The last resort when it all goes dark. |
 | [Forerunner](https://forerunner.blog) | Stories from the frontier. |
@@ -42,12 +41,13 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | --- | --- |
 | [Reel Garden](https://reel.garden) | Screen recordings that grow into something beautiful. |
 | [Waveqi](https://waveqi.com) | A digital audio workstation built from raw Rust — engine-first, no frameworks, no compromises. Early build. |
-| Creative Studio | One app for photo, design, and video. |
+| [Libteca](https://libteca.com) | One media server, every client — movies, TV, music, audiobooks, books, and comics. Speaks Jellyfin, Audiobookshelf, OPDS, and Subsonic, so existing apps connect unchanged. |
+| Prismqi | One app for photo, design, and video. |
 | [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
 | [Aethoph](https://aethoph.com) | Three games in one seamless real world — drive it, fly it, sail it. The whole planet, built from free data. |
 | [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
 | [Stem Framework](https://stemframework.org) | Academic integrity platform — blockchain ledger plus a web2 layer, cross-referencing domains to fight academic fraud and spark cross-domain learning. |
-| [Hardware](https://dreamlucidgroup.com) | Atoms, not bits. That's all we can say for now. |
+| [Xaeto](https://xaeto.com) | Atoms, not bits. That's all we can say for now. |
 
 ## Selected public work
 
