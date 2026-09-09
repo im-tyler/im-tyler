@@ -47,7 +47,7 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | [Aethoph](https://aethoph.com) | Three games in one seamless real world — drive it, fly it, sail it. The whole planet, built from free data. |
 | [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
 | [Stem Framework](https://stemframework.org) | Academic integrity platform — blockchain ledger plus a web2 layer, cross-referencing domains to fight academic fraud and spark cross-domain learning. |
-| Hardware | Atoms, not bits. That's all we can say for now. |
+| [Hardware](https://dreamlucidgroup.com) | Atoms, not bits. That's all we can say for now. |
 
 ## Selected public work
 
