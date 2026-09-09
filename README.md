@@ -13,14 +13,14 @@ Solo founder. I ship products and build the open source underneath them — the 
 
 ## Linux desktop play
 
-macOS comfort on Linux, in four layers: the foundation, the feel, the environment, and the tooling underneath.
+macOS/Windows comfort and compatibility on Linux, in four layers: the foundation, the feel, the environment, and the tooling underneath.
 
 | Project | Role | Status |
 | --- | --- | --- |
 | [Tebian](https://tebian.org) | Foundation — an operating system from the future: one bootable image that becomes a desktop, server, gaming rig, or security workstation through a single menu. Declarative bash on Sway; delete the config folder and you're back on stock Debian | active |
 | [maccel](https://github.com/im-tyler/maccel) | Feel — mouse acceleration daemon bringing macOS pointer response to any compositor (Sway, Hyprland, Cosmic, X11) | early development |
 | [Haven](https://github.com/im-tyler/haven) | Environment — the desktop itself: dock, top bar, Spotlight-style launcher, native mouse feel | design phase |
-| [multipurpose-tool](https://github.com/im-tyler/multipurpose-tool) | Tooling — agent-facing base CLI: one installable command for standard file conversions and desktop operations | concept |
+| [multipurpose-tool](https://github.com/im-tyler/multipurpose-tool) | Tooling — one installable CLI for standard file conversions and desktop operations; the same deterministic commands for agents and humans | concept |
 
 ## Live products
 
