@@ -1,6 +1,6 @@
 # Tyler
 
-I built **Fylun**, **Akiroo**, and **Teploy** — with **Neutron** underneath — to run and manage themselves, and everything else you see here. They exist to solve an otherwise impossible task: one person managing, developing, and marketing every project, product, and service on this page, plus all the business relations across them. Everything below runs on them.
+I built **Fylun**, **Akiroo**, and **Teploy** — with **Neutron** underneath — to run and manage themselves, and everything else you see here. They exist to solve an otherwise impossible task: one person managing, developing, and marketing every project, product, and service on this page, plus all the business relations across them.
 
 ## Active priorities
 
