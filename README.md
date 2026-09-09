@@ -27,14 +27,14 @@ A coherent stack for macOS-refugee Linux users — foundation, wedge, environmen
 | Product | What it is |
 | --- | --- |
 | [Lull Mail](https://lullmail.com) | Briefing-first mail client — senders screened once, a daily briefing of what needs you. One Go binary + Postgres, [AGPL source](https://github.com/lullmail/lullmail). |
-| [Omni Analyst](https://omnianalyst.com) | Self-hosted market intelligence: demand-driven coverage, calibrated conviction, a public record of every prediction. [Source](https://github.com/omnianalyst/omni-analyst). |
-| [RealCost](https://realcost.dev) | The SaaS Infrastructure Index — what running on each provider actually costs. |
-| [Forerunner](https://forerunner.blog) | Stories from the frontier. |
-| [Clank](https://clank.online) | Small models that run on your machine. |
-| [Babel Bible](https://babelbible.org) | Omnidisciplinary self-study curriculum — math, physics, chemistry, biology, philosophy, language, social science — with Lean 4 formalization. [Source](https://github.com/im-tyler/babel-bible). |
 | [Omi RSS](https://omirss.com) | Your feed. Your rules. — RSS reader: Flutter app + browser extension + server. [Source](https://github.com/im-tyler/omi-rss). |
+| [Omni Analyst](https://omnianalyst.com) | Self-hosted market intelligence: demand-driven coverage, calibrated conviction, a public record of every prediction. [Source](https://github.com/omnianalyst/omni-analyst). |
 | Media Hub | Self-hosted media app — movies, shows, music, audiobooks, plus reading for books and comics. |
+| [RealCost](https://realcost.dev) | The SaaS Infrastructure Index — what running on each provider actually costs. |
 | [Apocanet](https://apocanet.com) | The last resort when it all goes dark. |
+| [Forerunner](https://forerunner.blog) | Stories from the frontier. |
+| [Babel Bible](https://babelbible.org) | Omnidisciplinary self-study curriculum — math, physics, chemistry, biology, philosophy, language, social science — with Lean 4 formalization. [Source](https://github.com/im-tyler/babel-bible). |
+| [Clank](https://clank.online) | Small models that run on your machine. |
 
 ## Coming soon
 
