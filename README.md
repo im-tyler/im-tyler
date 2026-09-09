@@ -1,6 +1,6 @@
 # Tyler
 
-Solo founder building a portfolio of products and the open source underneath them. Active priorities: **Neutron**, **Teploy**, **Fylun**, **Akiroo**. Below: the public projects, research, and tools that feed into those or stand on their own.
+Solo founder. I ship products and build the open source underneath them — the foundation is the strategy, not a side effect. Focus right now: **Neutron**, **Teploy**, **Fylun**, **Akiroo**. Everything below feeds those, or stands on its own.
 
 ## Active priorities
 
@@ -13,14 +13,14 @@ Solo founder building a portfolio of products and the open source underneath the
 
 ## Linux desktop play
 
-A coherent stack for macOS-refugee Linux users — foundation, wedge, environment, and the base tooling underneath.
+macOS comfort on Linux, in four layers: the foundation, the feel, the environment, and the tooling underneath.
 
 | Project | Role | Status |
 | --- | --- | --- |
-| [Tebian](https://tebian.org) | An operating system from the future — one bootable image that becomes a desktop, server, gaming rig, or security workstation through a single menu. Declarative bash on Sway; delete the config folder and you're back on stock Debian | active |
-| [maccel](https://github.com/im-tyler/maccel) | Mouse acceleration daemon — brings macOS pointer feel to any compositor (Sway, Hyprland, Cosmic, X11) | early development |
-| [Haven](https://github.com/im-tyler/haven) | Desktop environment for macOS refugees — dock, top bar, Spotlight-style launcher, native mouse feel | design phase |
-| [multipurpose-tool](https://github.com/im-tyler/multipurpose-tool) | Agent-facing base tooling — one installable CLI for standard file conversions and desktop operations | concept |
+| [Tebian](https://tebian.org) | Foundation — an operating system from the future: one bootable image that becomes a desktop, server, gaming rig, or security workstation through a single menu. Declarative bash on Sway; delete the config folder and you're back on stock Debian | active |
+| [maccel](https://github.com/im-tyler/maccel) | Feel — mouse acceleration daemon bringing macOS pointer response to any compositor (Sway, Hyprland, Cosmic, X11) | early development |
+| [Haven](https://github.com/im-tyler/haven) | Environment — the desktop itself: dock, top bar, Spotlight-style launcher, native mouse feel | design phase |
+| [multipurpose-tool](https://github.com/im-tyler/multipurpose-tool) | Tooling — agent-facing base CLI: one installable command for standard file conversions and desktop operations | concept |
 
 ## Live products
 
