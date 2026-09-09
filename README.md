@@ -1,6 +1,6 @@
 # Tyler
 
-Solo founder building a portfolio of products — and the layers underneath them. An operating system and a desktop environment. A multi-language framework with its own database engine. Deployment infrastructure, a unified AI platform, AI business software. A DAW, a creative suite, a game engine, real-world games. Mail, RSS, market intelligence, a self-custody wallet. A deterministic universe simulation verified by an independent oracle — and research spanning theoretical physics and computational biology, with machine-checkable proofs. One person, all of it. Current focus: **Neutron**, **Teploy**, **Fylun**, **Akiroo**. Everything below feeds those, or stands on its own.
+Solo founder building a portfolio of products — and the layers underneath them. An operating system and a desktop environment. A multi-language framework with its own database engine. Deployment infrastructure, a unified AI platform, AI business software. A DAW, a creative suite, a game engine, real-world games. Mail, RSS, market intelligence, a self-custody wallet. A deterministic universe simulation verified by an independent oracle — and research spanning theoretical physics and computational biology, with machine-checkable proofs. One person, all of it — and the business runs on the portfolio too: **Fylun** for AI, **Akiroo** for operations, **Teploy** for deploys, **Neutron** underneath it all. Everything below feeds those, or stands on its own.
 
 ## Active priorities
 
