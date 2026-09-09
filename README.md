@@ -1,6 +1,6 @@
 # Tyler
 
-Solo founder building a portfolio of products — and the layers underneath them. An operating system and a desktop environment. A multi-language framework with its own database engine. Deployment infrastructure, a unified AI platform, AI business software. A DAW, a creative suite, a game engine, real-world games. Mail, RSS, market intelligence, a self-custody wallet. A deterministic universe simulation verified by an independent oracle — and research spanning theoretical physics and computational biology, with machine-checkable proofs. One person, all of it — and the business runs on the portfolio too: **Fylun** for AI, **Akiroo** for operations, **Teploy** for deploys, **Neutron** underneath it all. Everything below feeds those, or stands on its own.
+I built **Fylun**, **Akiroo**, and **Teploy** — with **Neutron** underneath — to run and manage themselves, and everything else you see here. They exist to solve an otherwise impossible task: one person managing, developing, and marketing every project, product, and service on this page, plus all the business relations across them. Everything below runs on them.
 
 ## Active priorities
 
