@@ -1,6 +1,6 @@
 # Tyler
 
-Solo founder. I ship products and build the open source underneath them — the foundation is the strategy, not a side effect. Focus right now: **Neutron**, **Teploy**, **Fylun**, **Akiroo**. Everything below feeds those, or stands on its own.
+Solo founder building a portfolio of products — and the layers underneath them. An operating system and a desktop environment. A multi-language framework with its own database engine. Deployment infrastructure, a unified AI platform, AI business software. A DAW, a creative suite, a game engine, real-world games. Mail, RSS, market intelligence, a self-custody wallet. A deterministic universe simulation verified by an independent oracle — and research spanning theoretical physics and computational biology, with machine-checkable proofs. One person, all of it. Current focus: **Neutron**, **Teploy**, **Fylun**, **Akiroo**. Everything below feeds those, or stands on its own.
 
 ## Active priorities
 
