@@ -28,7 +28,7 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | --- | --- |
 | [Lull Mail](https://lullmail.com) | Briefing-first mail client — senders screened once, a daily briefing of what needs you. One Go binary + Postgres, [AGPL source](https://github.com/lullmail/lullmail). |
 | [Omi RSS](https://omirss.com) | Your feed. Your rules. — self-hosted RSS reader: web app, browser extension, and a Google Reader-compatible API for mobile clients. [Source](https://github.com/im-tyler/omi-rss). |
-| [Omni Analyst](https://omnianalyst.com) | Self-hosted market intelligence: demand-driven coverage, calibrated conviction, a public record of every prediction. [Source](https://github.com/omnianalyst/omni-analyst). |
+| [Omni Analyst](https://omnianalyst.com) | Self-hosted market intelligence: demand-driven coverage, calibrated conviction, a public record of every prediction. Now with built-in envelope budgeting — bank sync on your own keys, one-upload migration from another budgeting app. [Source](https://github.com/omnianalyst/omni-analyst). |
 | Media Hub | Self-hosted media app — movies, shows, music, audiobooks, plus reading for books and comics. |
 | [RealCost](https://realcost.dev) | The SaaS Infrastructure Index — what running on each provider actually costs. |
 | [Apocanet](https://apocanet.com) | The last resort when it all goes dark. |
