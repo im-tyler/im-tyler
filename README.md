@@ -54,7 +54,7 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | Project | What it is |
 | --- | --- |
 | [agent-inbox](https://github.com/im-tyler/agent-inbox) | Federated supervisor for CLI coding agents. One inbox holding N independent projects, each with its own long-lived Claude Code or OpenCode session. |
-| [omilator](https://github.com/im-tyler/omilator) | Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android). |
+| [omilator](https://github.com/omilator/omilator) | Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android). |
 
 ## Research — [Lucid Unity Labs](https://lucidunitylabs.com)
 [kkt-framework](https://github.com/im-tyler/kkt-framework)  KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts.
