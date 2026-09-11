@@ -34,7 +34,7 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | [Apocanet](https://apocanet.com) | The last resort when it all goes dark. |
 | [Forerunner](https://forerunner.blog) | Stories from the frontier. |
 | [Babel Bible](https://babelbible.org) | Omnidisciplinary self-study curriculum — math, physics, chemistry, biology, philosophy, language, social science — with Lean 4 formalization. [Source](https://github.com/im-tyler/babel-bible). |
-| [Stem Framework](https://stemframework.org) | The deterministic simulation stack — ontos (simulation), simval (verification oracle), and light-system (renderer) around one stream spec, bit-identical across three implementations. |
+| [Stem Framework](https://stemframework.org) | The deterministic simulation stack — ontos (simulation), simval (verification oracle), and light-system (renderer) around one stream spec, bit-identical across three implementations. Sources: [ontos](https://github.com/im-tyler/ontos) · [simval](https://github.com/im-tyler/simval) · [light-system](https://github.com/im-tyler/light-system). |
 | [Clank](https://clank.online) | Small models that run on your machine. |
 
 ## Coming soon
