@@ -57,11 +57,11 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | [omilator](https://github.com/omilator/omilator) | Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android). |
 
 ## Research — [Lucid Unity Labs](https://lucidunitylabs.com)
-[kkt-framework](https://github.com/im-tyler/kkt-framework)  KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts.
+[kkt-framework](https://github.com/LucidUnityLabs/kkt-framework)  KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts.
 
-[2i-impossibility](https://github.com/im-tyler/2i-impossibility)  Structural obstruction theorems closing off Standard-Model derivations from binary icosahedral orbifolds — negative-results paper with machine-verifiable proofs.
+[2i-impossibility](https://github.com/LucidUnityLabs/2i-impossibility)  Structural obstruction theorems closing off Standard-Model derivations from binary icosahedral orbifolds — negative-results paper with machine-verifiable proofs.
 
-[transcriptional-compactness](https://github.com/im-tyler/transcriptional-compactness)  Pre-registered multi-cohort study of Ollivier-Ricci curvature in cancer scRNA-seq — discovery meta-analysis, held-out validation, annotation sensitivity analysis.
+[transcriptional-compactness](https://github.com/LucidUnityLabs/transcriptional-compactness)  Pre-registered multi-cohort study of Ollivier-Ricci curvature in cancer scRNA-seq — discovery meta-analysis, held-out validation, annotation sensitivity analysis.
 
 ## Client Work — [Dream Lucid Solutions](https://www.dreamlucidsolutions.com)
 
