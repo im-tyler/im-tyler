@@ -11,17 +11,6 @@ I built **Fylun**, **Akiroo**, and **Teploy** — with **Neutron** underneath �
 | [Fylun](https://fylun.ai/) | Unified AI platform — one subscription, one interface, replacing the need to juggle multiple AI services. Closed source. |
 | [Akiroo](https://akiroo.com) | Run your company with AI — modular business software in standalone modules. Go on neutron-go with a Neutron dashboard, live on akiroo.com. |
 
-## Linux desktop play
-
-macOS/Windows comfort and compatibility on Linux, in four layers: the foundation, the feel, the environment, and the tooling underneath.
-
-| Project | Role | Status |
-| --- | --- | --- |
-| [Tebian](https://tebian.org) | Foundation — an operating system from the future: one bootable image that becomes a desktop, server, gaming rig, or security workstation through a single menu. Declarative bash on Sway; delete the config folder and you're back on stock Debian | active |
-| [maccel](https://github.com/tebian-os/maccel) | Feel — mouse acceleration daemon bringing macOS pointer response to any compositor (Sway, Hyprland, Cosmic, X11) | early development |
-| [Haven](https://github.com/tebian-os/haven) | Environment — the desktop itself: dock, top bar, Spotlight-style launcher, native mouse feel | design phase |
-| [multipurpose-tool](https://github.com/tebian-os/multipurpose-tool) | Tooling — one installable CLI for standard file conversions and desktop operations; the same deterministic commands for agents and humans | concept |
-
 ## Live products
 
 | Product | What it is |
@@ -36,6 +25,17 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | [Babel Bible](https://babelbible.org) | Omnidisciplinary self-study curriculum — math, physics, chemistry, biology, philosophy, language, social science — with Lean 4 formalization. [Source](https://github.com/babelbible/babel-bible). |
 | [Stem Framework](https://stemframework.org) | The deterministic simulation stack — ontos (simulation), simval (verification oracle), and light-system (renderer) around one stream spec, bit-identical across three implementations. Sources: [ontos](https://github.com/usestemframework/ontos) · [simval](https://github.com/usestemframework/simval) · [light-system](https://github.com/usestemframework/light-system). |
 | [Clank](https://clank.online) | Small models that run on your machine. |
+
+## Linux desktop play
+
+macOS/Windows comfort and compatibility on Linux, in four layers: the foundation, the feel, the environment, and the tooling underneath.
+
+| Project | Role | Status |
+| --- | --- | --- |
+| [Tebian](https://tebian.org) | Foundation — an operating system from the future: one bootable image that becomes a desktop, server, gaming rig, or security workstation through a single menu. Declarative bash on Sway; delete the config folder and you're back on stock Debian | active |
+| [maccel](https://github.com/tebian-os/maccel) | Feel — mouse acceleration daemon bringing macOS pointer response to any compositor (Sway, Hyprland, Cosmic, X11) | early development |
+| [Haven](https://github.com/tebian-os/haven) | Environment — the desktop itself: dock, top bar, Spotlight-style launcher, native mouse feel | design phase |
+| [multipurpose-tool](https://github.com/tebian-os/multipurpose-tool) | Tooling — one installable CLI for standard file conversions and desktop operations; the same deterministic commands for agents and humans | concept |
 
 ## Coming soon
 
@@ -56,16 +56,16 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | --- | --- |
 | [agent-inbox](https://github.com/im-tyler/agent-inbox) | Federated supervisor for CLI coding agents. One inbox holding N independent projects, each with its own long-lived Claude Code or OpenCode session. |
 
+## Client Work — [Dream Lucid Solutions](https://www.dreamlucidsolutions.com)
+
+[Witchwalk](https://witchwalk.app) — a game that progresses while you walk. iOS + Android.
+
 ## Research — [Lucid Unity Labs](https://lucidunitylabs.com)
 [kkt-framework](https://github.com/LucidUnityLabs/kkt-framework)  KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts.
 
 [2i-impossibility](https://github.com/LucidUnityLabs/2i-impossibility)  Structural obstruction theorems closing off Standard-Model derivations from binary icosahedral orbifolds — negative-results paper with machine-verifiable proofs.
 
 [transcriptional-compactness](https://github.com/LucidUnityLabs/transcriptional-compactness)  Pre-registered multi-cohort study of Ollivier-Ricci curvature in cancer scRNA-seq — discovery meta-analysis, held-out validation, annotation sensitivity analysis.
-
-## Client Work — [Dream Lucid Solutions](https://www.dreamlucidsolutions.com)
-
-[Witchwalk](https://witchwalk.app) — a game that progresses while you walk. iOS + Android.
 
 ## Stack
 
