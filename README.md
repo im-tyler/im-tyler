@@ -45,6 +45,7 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | [Waveqi](https://waveqi.com) | A digital audio workstation built from raw Rust — engine-first, no frameworks, no compromises. Early build. |
 | [Prismqi](https://prismqi.com) | One app for photo, design, and video. |
 | [Covely](https://covely.io) | Game Engine for the AI future built on Godot, marketplace and on site digital book publishing coming later. |
+| [Omilator](https://omilator.com) | Cross-platform libretro frontend — one emulator everywhere: macOS, Windows, Linux, iOS, Android. Kotlin Multiplatform + Compose. |
 | [Aethoph](https://aethoph.com) | Three games in one seamless real world — drive it, fly it, sail it. The whole planet, built from free data. |
 | [Astrault](https://astrault.com) | Self-custody wallet with a built-in trading terminal — everyday wallet and pro desk in one. |
 | [Xaeto](https://xaeto.com) | Atoms, not bits. That's all we can say for now. |
@@ -54,7 +55,6 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 | Project | What it is |
 | --- | --- |
 | [agent-inbox](https://github.com/im-tyler/agent-inbox) | Federated supervisor for CLI coding agents. One inbox holding N independent projects, each with its own long-lived Claude Code or OpenCode session. |
-| [omilator](https://github.com/omilator/omilator) | Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android). |
 
 ## Research — [Lucid Unity Labs](https://lucidunitylabs.com)
 [kkt-framework](https://github.com/LucidUnityLabs/kkt-framework)  KKT Geodesic Framework: Klein bottle Kaluza-Klein theory with a₀ = cH₀/(2π) — code, data, and verification scripts.
