@@ -53,9 +53,6 @@ macOS/Windows comfort and compatibility on Linux, in four layers: the foundation
 
 | Project | What it is |
 | --- | --- |
-| [light-system](https://github.com/usestemframework/light-system) | Standalone dense/virtualized geometry renderer, Nanite as the parity bar. Clustered LOD + streamed page format, GPU-driven culling, visibility-buffer rasterization, cascaded shadow maps — C++ Vulkan prototype with measured per-pass GPU timings. Viewer for Ontos and Simval. |
-| [ontos](https://github.com/usestemframework/ontos) | One deterministic universe simulation, all scales, one state — scale-conditional physics with conserved totals across level boundaries, verified externally by simval. |
-| [simval](https://github.com/usestemframework/simval) | Deterministic verification oracle for computational-physics simulations. Local-first, LLM-free core — nine physics domains, 654 reference anchors. |
 | [agent-inbox](https://github.com/im-tyler/agent-inbox) | Federated supervisor for CLI coding agents. One inbox holding N independent projects, each with its own long-lived Claude Code or OpenCode session. |
 | [omilator](https://github.com/im-tyler/omilator) | Cross-platform libretro frontend in Kotlin Multiplatform + Compose (macOS, Windows, Linux, iOS, Android). |
 
