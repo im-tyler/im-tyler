@@ -6,7 +6,7 @@ I built **Fylun**, **Akiroo**, and **Teploy** — with **Neutron** underneath �
 
 | Project | What it is |
 | --- | --- |
-| [Neutron](https://neutron.build) | A new way to build. — in TypeScript, Rust, Go, Python, Elixir, Zig, Julia, and Mojo. Backed by Nucleus, a 14-model database engine speaking PostgreSQL. |
+| [Neutron](https://neutron.build) | A new way to build — in TypeScript, Rust, Go, Python, Elixir, Zig, Julia, and Mojo. Backed by Nucleus, a 14-model database engine speaking PostgreSQL. |
 | [Teploy](https://teploy.com) | Zero-downtime Docker deploys to any server via SSH. Single binary, no management server. Optional UI. Solves the SSH/UI state-desync problem in Dokploy and Coolify. Beyond deploys: multi-server + load balancing, canary rollouts, preview environments, managed secrets (OpenBao), S3 backups, VPN mesh with JIT access, Trivy vulnerability gate, one-command app templates. Ecosystem: arcade (game servers), ship (coding agent), gateway (AI gateway), sandbox (agent runners), observe (observability). |
 | [Fylun](https://fylun.ai/) | Unified AI platform — one subscription, one interface, replacing the need to juggle multiple AI services. Closed source. |
 | [Akiroo](https://akiroo.com) | Run your company with AI — modular business software in standalone modules. Go on neutron-go with a Neutron dashboard, live on akiroo.com. |
